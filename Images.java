@@ -1,0 +1,45 @@
+/* Decompiler 1ms, total 208ms, lines 45 */
+final class Images {
+   static final short FILE_ARROW = 0;
+   static final short FILE_AUTOMAP_CURSOR = 1;
+   static final short FILE_DAMAGE = 2;
+   static final short FILE_DIALOGSCROLL = 3;
+   static final short FILE_FABRICBG = 4;
+   static final short FILE_FLAK = 5;
+   static final short FILE_FONT = 6;
+   static final short FILE_HIGHLIGHT = 7;
+   static final short FILE_HORZ_KICKING = 8;
+   static final short FILE_HUD_ACTIONS = 9;
+   static final short FILE_HUD_AMMO_ICONS = 10;
+   static final short FILE_HUD_ATTACK_ARROWS = 11;
+   static final short FILE_HUD_BOTTOMBAR_ICONS = 12;
+   static final short FILE_HUD_FILL = 13;
+   static final short FILE_HUD_PLAYER = 14;
+   static final short FILE_HUD_PORTRAIT_SMALL = 15;
+   static final short FILE_ICE = 16;
+   static final short FILE_ICONS_BUFFS = 17;
+   static final short FILE_MAGNIFYINGGLASS = 18;
+   static final short FILE_MEDAL = 19;
+   static final short FILE_MIXING_HIGHLIGHT = 20;
+   static final short FILE_MIXING_SYRINGE = 21;
+   static final short FILE_MIXING_VIALS = 22;
+   static final short FILE_MOREGAMES0 = 23;
+   static final short FILE_MOREGAMES1 = 24;
+   static final short FILE_MOREGAMES2 = 25;
+   static final short FILE_MOREGAMES3 = 26;
+   static final short FILE_NOTEBOOK = 27;
+   static final short FILE_SCOPE = 28;
+   static final short FILE_SKELETONGIBS_24 = 29;
+   static final short FILE_SOFT_KEY_FILL = 30;
+   static final short FILE_STONEGIBS_24 = 31;
+   static final short FILE_TM_LEVELS1 = 32;
+   static final short FILE_TM_LEVELS2 = 33;
+   static final short FILE_TM_LEVELS3 = 34;
+   static final short FILE_TRAVELMAP = 35;
+   static final short FILE_UI_IMAGES = 36;
+   static final short FILE_VERT_KICKING = 37;
+   static final short FILE_WARIMAGES = 38;
+   static final short FILE_WARTABLE = 39;
+   static final short FILE_WOODGIBS_24 = 40;
+   static final short FILE_MAX = 41;
+}
